@@ -1,0 +1,5 @@
+name: Chatfilter
+main: net.cubespace.stream.chatfilter.Chatfilter
+version: 1.0
+author: geNAZt
+depends: [Yamler]
